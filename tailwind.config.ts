@@ -1,14 +1,16 @@
 import type { Config } from 'tailwindcss'
+const defaultTheme = require('tailwindcss/defaultTheme')
 
 export default <Partial<Config>>{
     theme: {
         extend: {
+            fontFamily: {
+                'sans': ['Poppins', ...defaultTheme.fontFamily.sans],
+            },
             colors: {
-                primary: '#ff0000'
             },
             backgroundImage: {
-                'hero-gradient': "url('/img/hero-gradient.svg')",
-              }
+            }
         }
     }
 }

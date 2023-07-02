@@ -61,7 +61,7 @@
     }
 
     50% {
-        transform: scaleX(3) translateX(25%) translateY(-5%);
+        transform: scaleX(3) translateX(25%);
     }
 
     100% {
@@ -75,7 +75,7 @@
     }
 
     50% {
-        transform: scaleX(3) translateX(-25%) translateY(5%);
+        transform: scaleX(3) translateX(-25%);
     }
 
     100% {
