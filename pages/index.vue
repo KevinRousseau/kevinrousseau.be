@@ -47,16 +47,17 @@ const transformElement = (x: number, y: number) => {
           I'm Kevin, a <strong>Full-stack Developer</strong> and
           <strong>Laravel / Vue.js</strong> enthusiast from Belgium.
           <span>👨🏼‍💻 🇧🇪</span> <br /><br />
-          While studying, I fell in love with coding and design, and to this day
-          it is still a major driving force in my developer journey. Along the
-          way, I discovered my passion for <strong>freelancing</strong>, where I
-          constantly gain more <strong>experience</strong> and dive into
-          exciting new technologies to benefit my <strong>clients</strong>.
+          I have a genuine love for coding and design that has been with me
+          since my early days as a student, and it continues to drive me forward
+          in my developer journey. <span>🚀</span> <br /><br />
+          Along the way, I discovered the joys of <strong>freelancing</strong>,
+          which has allowed me to constantly expand my skills and delve into
+          exciting new technologies that benefit my <strong>clients</strong>.
           <span>👏🏻</span> <br /><br />
-          I'm really keen to <strong>connect</strong> with all of you. If you
-          have any questions or want to chat about potential
-          <strong>collaborations</strong>, don't hesitate to reach out to me.
-          Let's brainstorm together! <span>💭</span> <br /><br />
+          I'm here to <strong>connect</strong> with all of you, whether you have
+          questions, ideas, or potential <strong>collaborations</strong> in
+          mind. Don't hesitate to reach out and let's have a chat. Together, we
+          can bring your visions to life! <span>💭</span> <br /><br />
           Looking forward to hearing from you! <span>💌</span>
         </p>
       </header>
