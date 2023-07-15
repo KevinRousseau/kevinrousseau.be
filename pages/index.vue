@@ -35,7 +35,7 @@ useSeoMeta({
 					to drive me forward in my developer journey.
 					<span>🚀</span> <br /><br />
 					Along the way, I discovered the joys of
-					<strong>freelancing</strong>, which has allowed me to
+					<strong>freelancing</strong>. It has allowed me to
 					constantly expand my skills and delve into exciting new
 					technologies that benefit my <strong>clients</strong>.
 					<span>👏🏻</span> <br /><br />
