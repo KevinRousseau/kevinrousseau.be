@@ -49,7 +49,7 @@ useSeoMeta({
 			</header>
 
 			<div
-				class="flex items-center xl:justify-center order-1 xl:order-2 flex-1 pt-20"
+				class="flex items-center xl:justify-center order-1 xl:order-2 flex-1 xl:pt-20"
 			>
 				<spline-viewer
 					v-pre
