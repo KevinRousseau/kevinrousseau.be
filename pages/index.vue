@@ -31,8 +31,8 @@ useSeoMeta({
 					<strong>Laravel / Vue.js</strong> enthusiast from Belgium.
 					<span>👨🏼‍💻 🇧🇪</span> <br /><br />
 					I have a genuine love for coding and design that has been
-					with me since my early days as a student, and it continues
-					to drive me forward in my developer journey.
+					with me since my early days as a student. To this day it
+					still continues to drive me forward in my developer journey.
 					<span>🚀</span> <br /><br />
 					Along the way, I discovered the joys of
 					<strong>freelancing</strong>. It has allowed me to
@@ -42,24 +42,19 @@ useSeoMeta({
 					I'm here to <strong>connect</strong> with all of you,
 					whether you have questions, ideas, or potential
 					<strong>collaborations</strong> in mind. Don't hesitate to
-					reach out and let's have a chat. Together, we can bring your
-					visions to life! <span>💭</span> <br /><br />
+					reach out and let's have a chat. <span>💭</span>
+					<br /><br />
 					Looking forward to hearing from you! <span>💌</span>
 				</p>
 			</header>
 
 			<div
-				class="flex items-center xl:justify-center order-1 xl:order-2 flex-1 xl:pt-20"
+				class="flex items-center xl:justify-center order-1 xl:order-2 flex-1"
 			>
-				<spline-viewer
-					v-pre
-					url="https://prod.spline.design/DXVadsd0zl3Qf9ih/scene.splinecode"
-					class="h-full hidden xl:block"
-				></spline-viewer>
 				<img
 					src="/img/logo.svg"
 					:alt="appConfig.title + ' Logo'"
-					class="w-[75px] xl:hidden mb-10"
+					class="logo w-[75px] md:w-[100px] xl:w-[200px] mb-10 xl:mb-0"
 				/>
 			</div>
 		</div>
@@ -69,5 +64,13 @@ useSeoMeta({
 <style lang="scss">
 span {
 	@apply text-xl;
+}
+.logo {
+	transform: scale(1.03) perspective(200px);
+	transition: all 0.3s ease;
+
+	&:hover {
+		transform: scale(1.1) perspective(2500px) rotateY(10deg);
+	}
 }
 </style>
